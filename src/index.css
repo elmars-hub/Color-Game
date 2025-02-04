@@ -60,6 +60,12 @@ body {
   font-weight: bold;
 }
 
+[data-testid="gameInstructions"] {
+  font-size: 15px;
+  font-weight: thin;
+  color: #f8f9fa;
+}
+
 #newGameButton {
   margin-top: 15px;
   padding: 10px 20px;
